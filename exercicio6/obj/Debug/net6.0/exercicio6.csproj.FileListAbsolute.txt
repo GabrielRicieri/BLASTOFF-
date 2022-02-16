@@ -1,0 +1,5 @@
+C:\Workspace\BLASTOFF-\exercicio6\obj\Debug\net6.0\exercicio6.csproj.AssemblyReference.cache
+C:\Workspace\BLASTOFF-\exercicio6\obj\Debug\net6.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BLASTOFF-\exercicio6\obj\Debug\net6.0\exercicio6.AssemblyInfoInputs.cache
+C:\Workspace\BLASTOFF-\exercicio6\obj\Debug\net6.0\exercicio6.AssemblyInfo.cs
+C:\Workspace\BLASTOFF-\exercicio6\obj\Debug\net6.0\exercicio6.csproj.CoreCompileInputs.cache

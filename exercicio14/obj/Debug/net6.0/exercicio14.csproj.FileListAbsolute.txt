@@ -1,0 +1,15 @@
+C:\Workspace\BLASTOFF-\exercicio14\bin\Debug\net6.0\exercicio14.exe
+C:\Workspace\BLASTOFF-\exercicio14\bin\Debug\net6.0\exercicio14.deps.json
+C:\Workspace\BLASTOFF-\exercicio14\bin\Debug\net6.0\exercicio14.runtimeconfig.json
+C:\Workspace\BLASTOFF-\exercicio14\bin\Debug\net6.0\exercicio14.dll
+C:\Workspace\BLASTOFF-\exercicio14\bin\Debug\net6.0\exercicio14.pdb
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.csproj.AssemblyReference.cache
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.AssemblyInfoInputs.cache
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.AssemblyInfo.cs
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.csproj.CoreCompileInputs.cache
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.dll
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\refint\exercicio14.dll
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.pdb
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\exercicio14.genruntimeconfig.cache
+C:\Workspace\BLASTOFF-\exercicio14\obj\Debug\net6.0\ref\exercicio14.dll

@@ -1,0 +1,15 @@
+C:\Workspace\BLASTOFF-\exercicio11\bin\Debug\net6.0\exercicio11.exe
+C:\Workspace\BLASTOFF-\exercicio11\bin\Debug\net6.0\exercicio11.deps.json
+C:\Workspace\BLASTOFF-\exercicio11\bin\Debug\net6.0\exercicio11.runtimeconfig.json
+C:\Workspace\BLASTOFF-\exercicio11\bin\Debug\net6.0\exercicio11.dll
+C:\Workspace\BLASTOFF-\exercicio11\bin\Debug\net6.0\exercicio11.pdb
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.csproj.AssemblyReference.cache
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.AssemblyInfoInputs.cache
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.AssemblyInfo.cs
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.csproj.CoreCompileInputs.cache
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.dll
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\refint\exercicio11.dll
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.pdb
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\exercicio11.genruntimeconfig.cache
+C:\Workspace\BLASTOFF-\exercicio11\obj\Debug\net6.0\ref\exercicio11.dll
